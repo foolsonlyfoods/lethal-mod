@@ -9,3 +9,5 @@ BepInEx: open zip inside the BepInEx folder copy everything and place it in the 
 
 MoreCompany: open the zip, place the plugin folder inside the BepInEx folder
 ![alt text](https://github.com/foolsonlyfoods/lethal-mod/blob/main/tutorial/Capture1.JPG?raw=true)
+
+now run the game B) ka chaw
