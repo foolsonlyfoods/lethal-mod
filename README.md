@@ -1,6 +1,6 @@
 # lethal-mod
 
-Install the the repo, click that green button <code> then download zip or use git clone.
+Install the the repo, click that green button [<code>] <then download zip or use git clone.>
 
 find ur Lethal-company directory.
 
